@@ -1,6 +1,6 @@
 # Curso sobre Google Classroom & GSuite
 
-1. Administración:
+1. [Administración](./Administracion.md):
     * Instalación: dominios
     * Configuración
     * Permisos
