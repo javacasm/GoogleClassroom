@@ -1,10 +1,20 @@
 # Curso sobre Google Classroom & GSuite
 
+## Licencia CC
+
+![Licencia CC](./images/Licencia_CC.png)
+
+Octubre de 2020
+
+Documentación basada en contenidos propios y en los vídeos de Rubén Lechuga y Antonio Riera para el curso de "Plataformas Educativas" para CEP de Granada
+
+## Índice
+
 1. [Administración](./Administracion.md):
     * Instalación: dominios
     * Configuración
     * Permisos
-1. Classroom
+1. Herramienta [Classroom](./Classroom.md)
     * [Clases](./Clases.md): creación, copia, archivado
     * [Personas](./Personas.md)
         * Profesores
