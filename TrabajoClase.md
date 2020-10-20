@@ -39,3 +39,15 @@
 * Reutilizar publicación: podemos usar materiales que ya hemos creado en otro tema de otra clase
  
 Podemos permitir que los alumnos publique y/o comenten en el tablón modificando la opción en los ajustes de la clase.
+
+## Programación de publicaciones o tareas
+
+Siempre podemos hacer que nuestras publicaciones o tareas no se muestren directamente sino que se muestren en un momento concreto sin más que programar su publicación
+
+![ProgramarTareas.png](./images/ProgramarTareas.png)
+
+Solo tenemos que usar 
+
+## Borradores
+
+Podemos guardar nuestras publicaciones como borradores para su uso posterior
