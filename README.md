@@ -10,6 +10,7 @@ Documentación basada en contenidos propios y en los vídeos de Rubén Lechuga y
 
 ## Índice
 
+0. ¿[Qué es GSuite for Education](./QueEsGSuiteForEdu.md)?
 1. [Administración](./Administracion.md):
     * Instalación: dominios
     * Configuración
