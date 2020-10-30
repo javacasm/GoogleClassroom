@@ -15,3 +15,6 @@ Por ejemplo al usarlo así, no tenemos la integración directa con algunas herra
 ¿Informes?
 
 [Documentación sobre administración de GSuite](https://support.google.com/a/?hl=es#topic=4388346)
+
+
+* He corregido una tarea (como profesor) pero el alumno no ve la calificación: hay que pulsar el botón devolver para que llegue al alumno
