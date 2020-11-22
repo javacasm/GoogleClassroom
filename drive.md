@@ -122,6 +122,9 @@ También podemos definir las aplicaciones a las que tendremos acceso desde Drive
 
 ## Copia de seguridad/Backup
 
+Sincronizar carpetas
+Seleccionamos qué carpetas
+Si lo instalamos tenemos una opción para poder crear documentos desde nuestro ordenador
 
 ## Classroom y Meet en Drive 
 
@@ -146,4 +149,8 @@ Permisos
 
 ## Edición cooperativa
 
-Se ve quienes están colaborando en el documento
+Varios usuarios pueden trabajar simultáneamente en un mismo documento
+
+Arriba a la derecha, se ve quienes están colaborando en el documento
+
+Podemos ver quién ha hecho cada modificación consultando el historial de cambios, de forma más o menos detallada. Desde los cambios podemos restaurar una versión determinada.
