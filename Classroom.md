@@ -9,3 +9,5 @@
 ¿Necesito tener una cuenta de centro para usarlo?
 
 No es necesario que vuestro centro esté usando GSuite, puedes usarlo con una cuenta de gmail. Pero al usar una cuenta de gmail perdemos la integración con otras herramientas como por ejemplo google meet
+
+Podemos reutilizar cualquier documento que tengamos creado en drive
