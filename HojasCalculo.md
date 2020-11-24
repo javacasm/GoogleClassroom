@@ -88,3 +88,13 @@ Si tenemos varias gráficos podemos seleccionar diferentes ejes para cada uno (i
 ## Ejemplos
 
 * Cuadro de notas: muchos valores, medias, calculos ponderados, colores
+
+
+## Procesar respuestas
+Podemos usar las funciones de google para calcular un resultado en función de las respuestas
+Ejemplo: Izquierda(celda;N) para extrar la posición de la respuesta 
+
+## Creación de exámenes personalizados
+
+Podemos usar un enunciado que se complete en función de los valores de una fila
+En las filas ponemos valores aleatorios para el enunciado y para calcular la respuesta de cada alumno
