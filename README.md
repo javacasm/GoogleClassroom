@@ -15,6 +15,9 @@ Documentación basada en contenidos propios y en los vídeos de Rubén Lechuga y
     * Instalación: dominios
     * Configuración
     * Permisos
+1. Herramientas básicas
+    * Correo con gmail
+    * Calendario    
 1. Herramienta [Classroom](./Classroom.md)
     * [Clases](./Clases.md): creación, copia, archivado
     * [Personas](./Personas.md)
@@ -37,3 +40,11 @@ Documentación basada en contenidos propios y en los vídeos de Rubén Lechuga y
     * Implicaciones legales
     * Problemas más frecuentes
     * Jamboard: clase con dispositivos táctiles.
+1. Formularios
+    * Creación de cuestionarios
+    * Configuración para exámentes
+    * Correcciones
+    * Exportación de datos
+1. Otras herramientas
+    * Creación de blogs
+    * Creación de páginas webs
