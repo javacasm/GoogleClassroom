@@ -48,3 +48,4 @@ Documentación basada en contenidos propios y en los vídeos de Rubén Lechuga y
 1. Otras herramientas
     * Creación de blogs
     * Creación de páginas webs
+1. [Recursos](./Recursos.md)
