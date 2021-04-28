@@ -25,7 +25,7 @@ Documentación basada en contenidos propios y en los vídeos de Rubén Lechuga y
         * Alumnos: código, enlaces, importación masiva
     * [Trabajo de clase](./TrabajoClase.md): 
         * Temas
-        * Tareas
+        * [Tareas](./Tareas.md)
         * Calificaciones
 1. Drive
     * Organización del contenido
@@ -34,7 +34,7 @@ Documentación basada en contenidos propios y en los vídeos de Rubén Lechuga y
     * Cooperación y documentos colaborativos. Historial y ver qué ha hecho cada usuario 
     * Documentos
     * Hojas de cálculo
-    * Presentaciones
+    * [Presentaciones](./Presentaciones.md)
 1. Meet y JamBoard
     * Videoconferencias: Chats, grabación, compartir pantalla. 
     * Implicaciones legales
@@ -44,7 +44,7 @@ Documentación basada en contenidos propios y en los vídeos de Rubén Lechuga y
     * Creación de cuestionarios
     * Configuración para exámentes
     * Correcciones
-    * Exportación de datos
+    * [Exportación de datos](./Exportacion.md)
 1. Otras herramientas
     * Creación de blogs
     * Creación de páginas webs
